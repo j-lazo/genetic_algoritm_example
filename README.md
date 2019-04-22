@@ -1,8 +1,8 @@
 # Example of the application of a genetic algorithm
 
-This is an implementation of the example "Robby" found in the book:
+This is an implementation of the example "Robby" from the book:
 
-Complexity a guided tour by Melanie Mitchell. 
+Complexity: A guided tour. by *Melanie Mitchell*. 
 The script is an implementation of fa Genetic Algorithm to solve the problem as proposed in the book 
 
 [1] ![Complexity](https://books.google.se/books/about/Complexity.html?id=bbN-6aDFrrAC&redir_esc=y)
