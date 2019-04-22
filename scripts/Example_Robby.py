@@ -27,7 +27,8 @@ generations = 600
 # size of the board
 siz = 10
 # Generates a Board, with X number of obstacles, by default 10
-[w, p] = Board(siz, 10)
+amount_of_cans = 10
+[w, p] = Board(siz, amount_of_cans)
 # generates a population of N individuals with S number of instructions each one
 pop_i = pop_generator(population, num_instruct)
 # implements the genetic algorithm
