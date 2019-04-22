@@ -33,7 +33,7 @@ The fit function is calculated as follows:
 
 To see the results just run the `Example_Robby.py`  file. By default it is set with a population of 100 individuals, with 200 individuals each one and a mutation rate of 0.4 and it repeats over 600 iterations. To change this parameters just change the values of `population`, `num_instruct`, `generations` and `mutation_rate` respectively. The simulation it is also set by default in a board of size 10x10 with 10 cans to pick up, you can also change this values in the script being `siz` and `amount_of_cans` respectively. 
 
-![Robby](picture.png)
+![Robby](robby.png)
 
 Image from [1] (p. 131) 
 
